@@ -4,7 +4,7 @@ import { sidebar } from './config/sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'kakatelo-blog',
+  title: '/2024-viteprss-blog/',
   description: 'A VitePress Site',
   themeConfig: {
     nav: navbar,
