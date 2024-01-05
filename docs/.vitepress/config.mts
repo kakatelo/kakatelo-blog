@@ -10,6 +10,6 @@ export default defineConfig({
     nav: navbar,
     sidebar: sidebar,
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }]
+    socialLinks: [{ icon: 'github', link: 'https://github.com/kakatelo/2024-viteprss-blog' }]
   }
 })
