@@ -1,2 +1,2 @@
 # 根目录
-BSAE=/2024-viteprss-blog/
+BASE=/2024-viteprss-blog/

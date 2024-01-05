@@ -4,9 +4,9 @@ import { sidebar } from './config/sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: process.env.BSAE || '/2024-viteprss-blog/',
-  title: 'kakatelo-blog',
-  description: 'A VitePress Site',
+  base: '/2024-viteprss-blog/',
+  title: 'viteprss-blog',
+  description: 'VitePress',
   themeConfig: {
     nav: navbar,
     sidebar: sidebar,
